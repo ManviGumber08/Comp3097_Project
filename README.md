@@ -6,6 +6,7 @@ CRN: 54621
 Team Information
 Manvi Gumber - 101412099
 Tenzin Thinley - 101454475
+Chhavi Chhabra - 101412182
 
 Application Overview
 Task Master is a To-Do List & Task Management app designed for users to efficiently organize, categorize, and track tasks. It includes task prioritization, deadline alerts, and persistent storage using Core Data.
